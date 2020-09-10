@@ -5,7 +5,7 @@ mathematicians, physicists, and scientists. The idea of solving math equations i
 quite intriguing.
 
 And it has become necessary to find an easy way to solve these equations and
-mathematical expressions. The traditional method of solving math expressions is
+mathematical expressions.The traditional method of solving math expressions is
 unsatisfactory for two main reasons.
 
 First, it requires users to learn different rules and approaches for each
